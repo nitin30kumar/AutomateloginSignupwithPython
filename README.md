@@ -1,9 +1,9 @@
 # :electron: __Automated Login and Sign Up__ :wave:
 :camera:
 
-![Signup](https://github.com/nitin30kumar/AutomateloginSignupwithPython/blob/777e91e09ff18bb46b9b28fb9a94072f3184581e/signup.mp4)
+![Signup](https://user-images.githubusercontent.com/40369168/114279887-71ac9c00-9a54-11eb-96bf-9d025524e939.mp4)
 
-![Login](https://github.com/nitin30kumar/AutomateloginSignupwithPython/blob/777e91e09ff18bb46b9b28fb9a94072f3184581e/login.mp4)
+![Login](https://user-images.githubusercontent.com/40369168/114279866-59d51800-9a54-11eb-9c77-646bbe8338ac.mp4)
 
 > If you want to learn 'Automation using Python', you're in correct place
 > Website used - onlinenotessharing.epizy.com
