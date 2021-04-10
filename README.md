@@ -1,7 +1,7 @@
 # :electron: __Automated Login and Sign Up__ :wave:
 :camera:
 
-[<img src="https://github.com/nitin30kumar/AutomateloginSignupwithPython/blob/777e91e09ff18bb46b9b28fb9a94072f3184581e/signup.jpg" width="50%">](https://github.com/nitin30kumar/AutomateloginSignupwithPython/blob/777e91e09ff18bb46b9b28fb9a94072f3184581e/signup.mp4)
+![Signup](https://github.com/nitin30kumar/AutomateloginSignupwithPython/blob/777e91e09ff18bb46b9b28fb9a94072f3184581e/signup.mp4)
 
 
 > If you want to learn 'Automation using Python', you're in correct place
