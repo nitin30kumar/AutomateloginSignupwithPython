@@ -1,12 +1,7 @@
 # :electron: __Automated Login and Sign Up__ :wave:
 :camera:
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="login.mp4" type="video/mp4">
-    <source src="signup.mp4" type="video/mp4">
-  </video>
-</figure>
+[<img src="https://github.com/nitin30kumar/AutomateloginSignupwithPython/blob/777e91e09ff18bb46b9b28fb9a94072f3184581e/signup.mp4" width="50%">](https://github.com/nitin30kumar/AutomateloginSignupwithPython/blob/777e91e09ff18bb46b9b28fb9a94072f3184581e/signup.mp4)
 
 
 > If you want to learn 'Automation using Python', you're in correct place
