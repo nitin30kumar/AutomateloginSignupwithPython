@@ -1,11 +1,16 @@
 # :electron: __Automated Login and Sign Up__ :wave:
 :camera:
-![Login](login.mp4)
 
-![Sign Up](signup.mp4)
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="videos/login.mp4" type="video/mp4">
+    <source src="videos/signup.mp4" type="video/mp4">
+  </video>
+</figure>
+
 
 > If you want to learn 'Automation using Python', you're in correct place
-
+> Website used - onlinenotessharing.epizy.com
 > This automated login/Sign up project covers the basic of it.
 
 :loudspeaker: Use 'PyCharm' for better experience
