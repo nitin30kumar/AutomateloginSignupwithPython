@@ -6,7 +6,7 @@
 ## Sign up automation with python
 ![signup](https://user-images.githubusercontent.com/40369168/114280090-6312b480-9a55-11eb-8ee2-82262943e991.gif)
 
-> Websit used is made by me only
+> Website used is made by me only
 > If you want to learn 'Automation using Python', you're in correct place
 > Website used - onlinenotessharing.epizy.com
 > This automated login/Sign up project covers the basic of it.
